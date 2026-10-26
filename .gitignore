@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+uploads/*
+!uploads/.gitkeep
+model/*.keras
