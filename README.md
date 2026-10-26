@@ -105,6 +105,9 @@ python app.py
 ### 7. Open in a browser
 Visit `http://127.0.0.1:5000`, upload a face image, and click **Classify Expression**.
 
+<img width="1766" height="878" alt="Screenshot 2026-10-26 204852" src="https://github.com/user-attachments/assets/45a7b945-cb5e-47b6-b98e-0a3b3951cc67" />
+
+
 ## How It Works
 1. The dataset images are loaded and resized to 48×48 grayscale.
 2. A CNN learns visual patterns from the training images.
